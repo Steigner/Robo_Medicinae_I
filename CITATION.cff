@@ -11,9 +11,6 @@ preferred-citation:
   authors:
     - family-names: "Matin"
       given-names: "Juříček"
-  supervisor:
-      - family-names: "Matin"
-      given-names: "Juříček"
   pages: 99
   title: "Design and implementation of the robotic platform for an experimental laboratory task"
   url: https://www.vut.cz/studenti/zav-prace/detail/138561
