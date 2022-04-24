@@ -6,6 +6,9 @@ message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: Masters Thesis
+journal: Brno University of Technology, 
+      Faculty of Mechnaical Engineering, Institute 
+      of Automation and Computer science
 authors:
   - family-names: Martin
     given-names: Juricek
