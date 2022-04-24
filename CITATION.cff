@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Design and implementation of the robotic platform
+  for an experimental laboratory task
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - email: 200543@vutbr.cz
+    name-particle: Martin
+    family-names: Juříček
+    affiliation: >-
+      Brno University of Technology, Faculty of
+      Mechanical Engineering, Institute of Automation
+      and Computer Science
+  - name-suffix: Supervisor
+    name-particle: Roman
+    family-names: Parák
+    email: roman.parak@vutbr.cz
+    affiliation: >-
+      Brno University of Technology, Faculty of
+      Mechanical Engineering, Institute of Automation
+      and Computer Science
+    orcid: 'https://orcid.org/0000-0002-2715-7820'
