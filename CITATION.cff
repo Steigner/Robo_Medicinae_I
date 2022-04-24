@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Design and implementation of the robotic platform
+  for an experimental laboratory task
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name-particle: Martin
+    family-names: Juricek
+    given-names: Martin
+    email: 200543@vutbr.cz
+    affiliation: 'BUT, FME, IACS'
+  - {}
+license: MIT
