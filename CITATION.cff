@@ -8,20 +8,11 @@ version: 1.0.4
 doi: 10.5281/zenodo.1234
 date-released: 2017-12-18
 type: thesis
-references:
-  - type: thesis
-    authors:
-      - family-names: Doe
-        given-names: Jane
-    title: "A high accuracy syntax parser in Visual Basic"
-    thesis-type: PhD
-    year: 2017
-    department: Dept. of Universal Language Philosophy
-    institution:
+year: 2022
+department: Dept. of Universal Language Philosophy
+ institution:
       name: "Humboldt-Universität zu Berlin"
       city: Berlin
       country: DE
-    database: Thesiserver
-    date-accessed: 2017-09-23
-    date-published: 2017-03-21
-    url: http://thesiserver.hu-berlin.de/2017/march/phd/doe-12345
+url: http://thesiserver.hu-berlin.de/2017/march/phd/doe-12345
+thesis-type: PhD
