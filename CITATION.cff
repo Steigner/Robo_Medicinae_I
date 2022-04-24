@@ -9,12 +9,17 @@ url: https://www.vut.cz/studenti/zav-prace/detail/138561
 preferred-citation:
   type: thesis
   authors:
-  - family-names: "Martin"
-    given-names: "Juricek"
-  url: "https://www.vutbr.cz/studenti/zav-prace/detail/138561"
-  journal: "Brno University of Technology,"
-  howpublished: online
-  publisher: "agasd"
-  pages: 99 # Last page number
-  title: "My awesome research software"
-  year: 2022
+    - family-names: Doe
+      given-names: Jane
+  title: "A high accuracy syntax parser in Visual Basic"
+  thesis-type: PhD
+  year: 2017
+  department: Dept. of Universal Language Philosophy
+  institution:
+    name: "Humboldt-Universität zu Berlin"
+    city: Berlin
+    country: DE
+  database: Thesiserver
+  date-accessed: 2017-09-23
+  date-published: 2017-03-21
+  url: http://thesiserver.hu-berlin.de/2017/march/phd/doe-12345
