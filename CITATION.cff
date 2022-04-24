@@ -1,6 +1,3 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: >-
   Design and implementation of the robotic platform
@@ -8,7 +5,11 @@ title: >-
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
-type: software
+type: Masters Thesis
 authors:
-  - family-names: Druskat
-    given-names: Stephan
+  - family-names: Martin
+    given-names: Juricek
+    email: 200543@vutbr.cz
+    affiliation: Brno University of Technology, 
+      Faculty of Mechnaical Engineering, Institute 
+      of Automation and Computer science
