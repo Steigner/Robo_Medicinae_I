@@ -13,6 +13,8 @@ preferred-citation:
     given-names: "Juricek"
   url: "https://www.vutbr.cz/studenti/zav-prace/detail/138561"
   journal: "Brno University of Technology,"
+  howpublished: online
+  publisher: "agasd"
   pages: 99 # Last page number
   title: "My awesome research software"
   year: 2022
