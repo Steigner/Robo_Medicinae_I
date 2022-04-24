@@ -3,15 +3,22 @@ message: If you use this software, please cite it as below.
 authors:
   - family-names: Martin
     given-names: Juricek
-title: Design and implementation of the robotic platform for an experimental laboratory task
+title: Robo Medicinae I
 type: software
-url: https://www.vut.cz/studenti/zav-prace/detail/138561
 preferred-citation:
-  type: article
+  type: thesis
+  thesis-type: Masters
   authors:
-  - family-names: "Lisa"
-    given-names: "Mona"
-  journal: "BUT FME"
+    - family-names: "Matin"
+      given-names: "Juříček"
+  supervisor:
+      - family-names: "Matin"
+      given-names: "Juříček"
   pages: 99
-  title: "My awesome research software"
+  title: "Design and implementation of the robotic platform for an experimental laboratory task"
+  url: https://www.vut.cz/studenti/zav-prace/detail/138561
   year: 2022
+  institution:
+    - name: "Brno University of Technology, Faculty of Mechanical Engineering, Institute of Automation and Computer Science"
+  city: Brno
+  country: CZ
