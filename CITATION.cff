@@ -10,8 +10,5 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - name-particle: Martin
-    family-names: Juricek
-    given-names: Martin
-    email: 200543@vutbr.cz
-    affiliation: 'BUT, FME, IACS'
+  - family-names: Druskat
+    given-names: Stephan
