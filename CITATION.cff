@@ -7,19 +7,11 @@ title: Design and implementation of the robotic platform for an experimental lab
 type: software
 url: https://www.vut.cz/studenti/zav-prace/detail/138561
 preferred-citation:
-  type: thesis
+  type: article
   authors:
-    - family-names: Doe
-      given-names: Jane
-  title: "A high accuracy syntax parser in Visual Basic"
-  thesis-type: PhD
-  year: 2017
-  department: Dept. of Universal Language Philosophy
-  institution:
-    name: "Humboldt-Universität zu Berlin"
-    city: Berlin
-    country: DE
-  database: Thesiserver
-  date-accessed: 2017-09-23
-  date-published: 2017-03-21
-  url: http://thesiserver.hu-berlin.de/2017/march/phd/doe-12345
+  - family-names: "Lisa"
+    given-names: "Mona"
+  journal: "BUT FME"
+  pages: 99
+  title: "My awesome research software"
+  year: 2022
