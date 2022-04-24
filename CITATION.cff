@@ -3,10 +3,8 @@ message: If you use this software, please cite it as below.
 authors:
   - family-names: Martin
     given-names: Juricek
-title: My Research Tool
+title: Design and implementation of the robotic platform for an experimental laboratory task
 version: 1.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
+date-released: 2022
 type: thesis
-year: 2022
-url: http://thesiserver.hu-berlin.de/2017/march/phd/doe-12345
+url: https://www.vut.cz/studenti/zav-prace/detail/138561
