@@ -7,6 +7,7 @@ title: My Research Tool
 version: 1.0.4
 doi: 10.5281/zenodo.1234
 date-released: 2017-12-18
+type: thesis
 references:
   - type: thesis
     authors:
