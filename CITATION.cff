@@ -8,18 +8,11 @@ type: software
 url: https://www.vut.cz/studenti/zav-prace/detail/138561
 preferred-citation:
   type: thesis
-  thesis-type: PhD
-  department: Dept. of Universal Language Philosoph
   authors:
   - family-names: "Martin"
     given-names: "Juricek"
   url: "https://www.vutbr.cz/studenti/zav-prace/detail/138561"
-  journal: "Journal Title"
-  start: 1 # First page number
-  end: 10 # Last page number
+  journal: "Brno University of Technology,"
+  pages: 99 # Last page number
   title: "My awesome research software"
   year: 2022
-  institution:
-    - name: "Humboldt-Universität zu Berlin"
-      city: Berlin
-      country: DE
