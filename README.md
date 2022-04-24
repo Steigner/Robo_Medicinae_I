@@ -30,7 +30,12 @@ This work is divided into four main repositories. Each represents a single part.
 
 ## Citation
 
-bude
+**Note:** Please read the whole file before copying the quote, there are additional tags for the full quote.
+
+JUŘÍČEK, Martin. _Design and implementation of the robotic platform for an experimental
+laboratory task._ Brno: Brno University of Technology, Faculty of Mechanical
+Engineering, Institute of Automation and Computer Science, 2022, 99 p. Master’s
+Thesis. Supervised by Ing. Roman Parák
 
 ## Authors
 
