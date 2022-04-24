@@ -1,27 +1,25 @@
-cff-version: 1.0.3
+cff-version: 1.2.0
 message: If you use this software, please cite it as below.
 authors:
   - family-names: Martin
     given-names: Juricek
 title: Design and implementation of the robotic platform for an experimental laboratory task
-date-released: 2022
-type: thesis
+type: software
 url: https://www.vut.cz/studenti/zav-prace/detail/138561
 preferred-citation:
-  type: article
+  type: thesis
+  thesis-type: PhD
+  department: Dept. of Universal Language Philosoph
   authors:
-  - family-names: "Lisa"
-    given-names: "Mona"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "Bot"
-    given-names: "Hew"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  doi: "10.0000/00000"
+  - family-names: "Martin"
+    given-names: "Juricek"
+  url: "https://www.vutbr.cz/studenti/zav-prace/detail/138561"
   journal: "Journal Title"
-  month: 9
   start: 1 # First page number
   end: 10 # Last page number
   title: "My awesome research software"
-  issue: 1
-  volume: 1
-  year: 2021
+  year: 2022
+  institution:
+    - name: "Humboldt-Universität zu Berlin"
+      city: Berlin
+      country: DE
