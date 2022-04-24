@@ -28,6 +28,32 @@ This work is divided into four main repositories. Each represents a single part.
 + [<=](https://github.com/Steigner/RM1_Gripper) RM1 - Gripper
 + [<=](https://github.com/Steigner/RM1_SegCNN) RM1 - SegCNN
 
+## Images
+<p align="center"><b>Rendered process motion of collecting samples from nasal vestibule</b></p>
+
+<p align="center">Author: Roman Parak</p>
+
+<img src="src/Robo_Medicae.png">
+
+<table>
+  <tr>
+    <td><img src="src/Process_Part_1.png"></td>
+    <td><img src="src/Process_Part_2.png"></td>
+  </tr>
+  <tr>
+    <td><img src="src/Process_Part_3.png"></td>
+    <td><img src="src/Process_Part_4.png"></td>
+  </tr>
+  <tr>
+    <td><img src="src/Process_Part_5.png"></td>
+    <td><img src="src/Process_Part_6.png"></td>
+  </tr>
+  <tr>
+    <td><img src="src/Process_Part_7.png"></td>
+    <td><img src="src/Process_Part_8.png"></td>
+  </tr>
+</table>
+
 ## Citation
 
 **Note:** Please read the whole file before copying the quote, there are additional tags for the full quote.
