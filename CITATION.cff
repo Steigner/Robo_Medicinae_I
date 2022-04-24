@@ -12,18 +12,38 @@ type: software
 authors:
   - email: 200543@vutbr.cz
     name-particle: Martin
-    family-names: Juříček
+    family-names: Juricek
     affiliation: >-
       Brno University of Technology, Faculty of
       Mechanical Engineering, Institute of Automation
       and Computer Science
   - name-suffix: Supervisor
     name-particle: Roman
-    family-names: Parák
+    family-names: Parak
     email: roman.parak@vutbr.cz
     affiliation: >-
       Brno University of Technology, Faculty of
       Mechanical Engineering, Institute of Automation
       and Computer Science
     orcid: 'https://orcid.org/0000-0002-2715-7820'
+abstract: >-
+  Advanced robotics does not always have to be
+  associated with Industry 4.0, but can also be
+  applied, for example, in the Smart Hospital
+  concept. Developments in this field have been
+  driven by the coronavirus disease (COVID-19), and
+  any improvement in the work of medical staff is
+  welcome. In this thesis, an experimental robotic
+  platform was designed and implemented whose main
+  function is the swabbing samples of the nasal
+  vestibule. The robotic platform represents a
+  complete integration of software and hardware,
+  where the operator has access to a web-based
+  application and can control a number of functions.
+  The increased safety and collaborative approach
+  cannot be overlooked. The result of this work is a
+  functional prototype of the robotic platform that
+  can be further extended, for example, by using
+  alternative technologies, extending patient safety,
+  or clinical testing and studies.
 license: MIT
