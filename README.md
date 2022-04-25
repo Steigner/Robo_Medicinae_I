@@ -78,8 +78,14 @@ This work was created in collaboration with Institute of Automation and Computer
 
 <img src="src/yumi_ur.jpg">
 
+## Contact
+
+* 200543@vutbr.cz
+* Roman.Parak@vutbr.cz
+* uai@fme.vutbr.cz
+
 ## References
 
 [Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
 
-<img src="src/logo_fme_but.png">
+<p align="center"><img src="src/logo.png"></p>
