@@ -34,8 +34,6 @@ The repository contains **Adobe Ilustrator** graphical designe of HMI and vector
 ## Images
 <p align="center"><b>Rendered process motion of collecting samples from nasal vestibule</b></p>
 
-<p align="center">Author: Roman Parak</p>
-
 <img src="src/Robo_Medicae.png">
 
 <table>
