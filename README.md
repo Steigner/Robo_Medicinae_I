@@ -76,6 +76,10 @@ Thesis. Supervised by Ing. Roman Parák
 
 This work was created in collaboration with Institute of Automation and Computer Science, Cybernetics and Robotics Division.
 
+<img src="src/yumi_ur.jpg">
+
 ## References
 
 [Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
+
+<img src="src/logo_fme_but.png">
