@@ -1,10 +1,6 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it as below.
-authors:
-  - family-names: Martin
-    given-names: Juricek
 title: Robo Medicinae I
-type: software
 preferred-citation:
   type: thesis
   thesis-type: Masters
