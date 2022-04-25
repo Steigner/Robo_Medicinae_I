@@ -63,15 +63,14 @@ The repository contains **Adobe Ilustrator** graphical designe of HMI and vector
 If you want to quote, please quote as Master's Thesis.
 **Note:** Please read the whole file before copying the quote, there are additional tags for the full quote.
 
-JUŘÍČEK, Martin. _Design and implementation of the robotic platform for an experimental
-laboratory task._ Brno: Brno University of Technology, Faculty of Mechanical
-Engineering, Institute of Automation and Computer Science, 2022, 99 p. Master’s
-Thesis. Supervised by Ing. Roman Parák
+JUŘÍČEK, Martin.  _Design and implementation of the robotic platform for an experimental
+laboratory task._ [online]. Brno, 2022. Available at: https://www.vutbr.cz/studenti/zav-prace/detail/138561. Master’s
+Thesis. Brno University of Technology, Faculty of Mechanical Engineering, Institute of Automation and Computer Science. Supervised by Ing. Roman Parák
 
 ## Authors
 
 * Author: Martin Juricek
-* Designer: Kateřina Monsportova
+* Designer: Katerina Monsportova
 * Supervisor: Roman Parak
 
 This work was created in collaboration with Institute of Automation and Computer Science, Cybernetics and Robotics Division.
