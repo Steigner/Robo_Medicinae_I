@@ -97,4 +97,4 @@ This work was created in collaboration with Institute of Automation and Computer
 
 [Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
 
-<p align="center"><img src="src/logo.png"></p>
+<p align="center"><img src="src/logo.png" width="35%"></p>
