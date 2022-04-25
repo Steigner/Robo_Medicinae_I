@@ -80,9 +80,9 @@ This work was created in collaboration with Institute of Automation and Computer
 
 ## Contact
 
-* 200543@vutbr.cz
-* Roman.Parak@vutbr.cz
-* uai@fme.vutbr.cz
+* Author: 200543@vutbr.cz
+* Supervisor: Roman.Parak@vutbr.cz
+* Institute: uai@fme.vutbr.cz
 
 ## References
 
