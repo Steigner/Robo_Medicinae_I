@@ -28,6 +28,9 @@ This work is divided into four main repositories. Each represents a single part.
 + [<=](https://github.com/Steigner/RM1_Gripper) RM1 - Gripper
 + [<=](https://github.com/Steigner/RM1_SegCNN) RM1 - SegCNN
 
+## About
+The repository contains **Adobe Ilustrator** graphical designe of HMI and vector graphic of UR3 from Kateřina Monsportová. ZIP Latex source archive and PDF Masters Thesis also included. Last but not least foto documentation.
+
 ## Images
 <p align="center"><b>Rendered process motion of collecting samples from nasal vestibule</b></p>
 
@@ -68,7 +71,10 @@ Thesis. Supervised by Ing. Roman Parák
 ## Authors
 
 * Author: Martin Juricek
+* Designer: Kateřina Monsportova
 * Supervisor: Roman Parak
+
+This work was created in collaboration with Institute of Automation and Computer Science, Cybernetics and Robotics Division.
 
 ## References
 
