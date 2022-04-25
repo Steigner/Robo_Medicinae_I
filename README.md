@@ -59,6 +59,7 @@ The repository contains **Adobe Ilustrator** graphical designe of HMI and vector
 
 ## Citation
 If you want to quote, please quote as Master's Thesis.
+
 **Note:** Please read the whole file before copying the quote, there are additional tags for the full quote.
 
 JUŘÍČEK, Martin.  _Design and implementation of the robotic platform for an experimental
