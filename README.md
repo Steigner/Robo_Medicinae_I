@@ -6,8 +6,7 @@
 
 # Robo Medicinae I
 <a href="https://github.com/Steigner/Robo_Medicinae_I/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/Steigner/Robo_Medicinae_I.svg"></a>
-
-https://img.shields.io/github/license/{username}/{repo-name}.svg
+<a href="https://github.com/Steigner/Robo_Medicinae_I/blob/main/CITATION.cff"><img alt="Citation" src="https://img.shields.io/badge/Citation-Master's Thesis-darkred.svg"></a>
 
 **Open-source, copy and modify what you need!**
 
@@ -60,9 +59,9 @@ The repository contains **Adobe Ilustrator** graphical designe of HMI and vector
 ## Video
 
 ## Citation
-If you want to quote, please quote as Master's Thesis.
+If you want to cite, please quote as Master's Thesis.
 
-**Note:** Please read the whole file before copying the quote, there are additional tags for the full quote.
+**Note:** Please read the whole file before copying the cite, there are additional tags for the full citation.
 
 JUŘÍČEK, Martin.  _Design and implementation of the robotic platform for an experimental laboratory task._ [online]. Brno, 2022. Available at: https://www.vutbr.cz/studenti/zav-prace/detail/138561. Master’s Thesis. Brno University of Technology, Faculty of Mechanical Engineering, Institute of Automation and Computer Science. Supervised by Ing. Roman Parák
 
