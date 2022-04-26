@@ -5,7 +5,9 @@
 ***
 
 # Robo Medicinae I
-<a href="https://github.com/Steigner/RM1_server/blob/main/LICENSE"><img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg"></a>
+<a href="https://github.com/Steigner/Robo_Medicinae_I/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/Steigner/Robo_Medicinae_I.svg"></a>
+
+https://img.shields.io/github/license/{username}/{repo-name}.svg
 
 **Open-source, copy and modify what you need!**
 
