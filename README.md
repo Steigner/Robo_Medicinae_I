@@ -35,24 +35,24 @@ The repository contains **Adobe Ilustrator** graphical designe of HMI and vector
 ## Images
 <p align="center"><b>Rendered process motion of collecting samples from nasal vestibule</b></p>
 
-<img src="src/Robo_Medicae.png">
+<img src="docs/Robo_Medicae.png">
 
 <table>
   <tr>
-    <td><img src="src/Process_Part_1.png"></td>
-    <td><img src="src/Process_Part_2.png"></td>
+    <td><img src="docs/Process_Part_1.png"></td>
+    <td><img src="docs/Process_Part_2.png"></td>
   </tr>
   <tr>
-    <td><img src="src/Process_Part_3.png"></td>
-    <td><img src="src/Process_Part_4.png"></td>
+    <td><img src="docs/Process_Part_3.png"></td>
+    <td><img src="docs/Process_Part_4.png"></td>
   </tr>
   <tr>
-    <td><img src="src/Process_Part_5.png"></td>
-    <td><img src="src/Process_Part_6.png"></td>
+    <td><img src="docs/Process_Part_5.png"></td>
+    <td><img src="docs/Process_Part_6.png"></td>
   </tr>
   <tr>
-    <td><img src="src/Process_Part_7.png"></td>
-    <td><img src="src/Process_Part_8.png"></td>
+    <td><img src="docs/Process_Part_7.png"></td>
+    <td><img src="docs/Process_Part_8.png"></td>
   </tr>
 </table>
 
@@ -86,7 +86,7 @@ JUŘÍČEK, Martin.  _Design and implementation of the robotic platform for an e
 
 This work was created in collaboration with Institute of Automation and Computer Science, Cybernetics and Robotics Division.
 
-<img src="src/yumi_ur.jpg">
+<img src="docs/yumi_ur.jpg">
 
 ## Contact
 
@@ -100,4 +100,4 @@ This work was created in collaboration with Institute of Automation and Computer
 
 ***
 
-<p align="center"><img src="src/logo.png" width="35%"></p>
+<p align="center"><img src="docs/logo.png" width="35%"></p>
