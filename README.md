@@ -59,7 +59,7 @@ The repository contains **Adobe Ilustrator** graphical designe of HMI and vector
 ## Video
 
 ## Citation
-If you want to cite, please quote as Master's Thesis.
+If you want to cite, please cite as Master's Thesis.
 
 **Note:** Please read the whole file before copying the cite, there are additional tags for the full citation.
 
