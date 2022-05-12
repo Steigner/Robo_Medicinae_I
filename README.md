@@ -76,7 +76,7 @@ JUŘÍČEK, Martin.  _Design and implementation of the robotic platform for an e
     language = {english},
     year = {2022},
     url = {https://www.vutbr.cz/studenti/zav-prace/detail/138561},
-    cited = {202X-XX-XX},
+    cited = {XXXX-XX-XX},
 }
 ```
 
