@@ -29,6 +29,8 @@ This work is divided into four main repositories. Each represents a single part.
 + [<=](https://github.com/Steigner/RM1_Gripper) RM1 - Gripper
 + [<=](https://github.com/Steigner/RM1_SegCNN) RM1 - SegCNN
 
+**Note:** Original branch of master's thesis -> switch to Master's Thesis
+
 ## About
 The repository contains **Adobe Ilustrator** graphical designe of HMI and vector graphic of UR3 from Kateřina Monsportová. ZIP Latex source archive and PDF Masters Thesis also included. Last but not least foto documentation.
 
@@ -59,7 +61,7 @@ The repository contains **Adobe Ilustrator** graphical designe of HMI and vector
 ## Video
 
 ## Citation
-If you want to cite, please quote as Master's Thesis.
+If you want to cite, please cite as Master's Thesis.
 
 **Note:** Please read the whole file before copying the cite, there are additional tags for the full citation.
 
@@ -74,7 +76,7 @@ JUŘÍČEK, Martin.  _Design and implementation of the robotic platform for an e
     language = {english},
     year = {2022},
     url = {https://www.vutbr.cz/studenti/zav-prace/detail/138561},
-    cited = {202X-XX-XX},
+    cited = {XXXX-XX-XX},
 }
 ```
 
