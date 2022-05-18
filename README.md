@@ -96,10 +96,6 @@ This work was created in collaboration with Institute of Automation and Computer
 * Supervisor: Roman.Parak@vutbr.cz
 * Institute: uai@fme.vutbr.cz
 
-## References
-
-[Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
-
 ***
 
 <p align="center"><img src="docs/logo.png" width="35%"></p>
