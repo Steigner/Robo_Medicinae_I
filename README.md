@@ -12,6 +12,16 @@
 
 **Open-source, kopírujte a upravujte co potřebujete!**
 
+<p align="center"><b><h2>Article</h2></b></p>
+
+**Intelligent Sampling of Anterior Human Nasal Swabs using a Collaborative Robotic Arm**
+
+The thesis was the basis for an article in collaboration with Roman Parak. This article was published in MENDEL Soft Computing Journal. (DOI: https://doi.org/10.13164/mendel.2022.1.032)
+
+[MENDEL](https://mendel-journal.org/index.php/mendel/article/view/185)
+
+[RESEARCHGATE](https://www.researchgate.net/publication/361681619_Intelligent_Sampling_of_Anterior_Human_Nasal_Swabs_using_a_Collaborative_Robotic_Arm)
+
 <p align="center"><b><h2>Master's Thesis</h2></b></p>
 <p align="center"><b>Design and implementation of the robotic platform for an experimental laboratory task</b></p>
 
@@ -58,14 +68,32 @@ The repository contains **Adobe Ilustrator** graphical designe of HMI and vector
   </tr>
 </table>
 
-## Video
+## Videos
 
 [![RM1_1](https://user-images.githubusercontent.com/54715463/180144204-dd56cc2a-9d48-4184-a508-2d8cf522bdbf.png)](https://www.youtube.com/watch?v=mLLzvUdUReE)
 
 [![RM1_2](https://user-images.githubusercontent.com/54715463/180144667-744912b4-72c1-463b-a606-26fda693103a.png)](https://www.youtube.com/watch?v=mLLzvUdUReE)
 
 ## Citation
-If you want to cite, please cite as Master's Thesis.
+
+**Article - Intelligent Sampling of Anterior Human Nasal Swabs using a Collaborative Robotic Arm**
+
+```BibTeX
+@article{Parak_Juricek_2022, 
+    title={Intelligent Sampling of Anterior Human Nasal Swabs using a Collaborative Robotic Arm}, 
+    author={Parak, Roman and Juricek, Martin}, 
+    volume={28}, 
+    url={https://mendel-journal.org/index.php/mendel/article/view/185}, 
+    DOI={10.13164/mendel.2022.1.032}, 
+    number={1}, 
+    journal={MENDEL},
+    year={2022}, 
+    month={Jun.}, 
+    pages={32-40}
+}
+```
+
+**Master's Thesis**
 
 **Note:** Please read the whole file before copying the cite, there are additional tags for the full citation.
 
