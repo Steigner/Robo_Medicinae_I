@@ -60,6 +60,10 @@ The repository contains **Adobe Ilustrator** graphical designe of HMI and vector
 
 ## Video
 
+[![RM1_1](https://user-images.githubusercontent.com/54715463/180144204-dd56cc2a-9d48-4184-a508-2d8cf522bdbf.png)](https://www.youtube.com/watch?v=mLLzvUdUReE)
+
+[![RM1_2](https://user-images.githubusercontent.com/54715463/180144667-744912b4-72c1-463b-a606-26fda693103a.png)](https://www.youtube.com/watch?v=mLLzvUdUReE)
+
 ## Citation
 If you want to cite, please cite as Master's Thesis.
 
