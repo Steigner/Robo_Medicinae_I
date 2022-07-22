@@ -14,7 +14,7 @@
 
 <p align="center"><b><h2>Article</h2></b></p>
 
-**Intelligent Sampling of Anterior Human Nasal Swabs using a Collaborative Robotic Arm**
+<p align="center"><b>Intelligent Sampling of Anterior Human Nasal Swabs using a Collaborative Robotic Arm</b></p>
 
 The thesis was the basis for an article in collaboration with Roman Parak. This article was published in MENDEL Soft Computing Journal. (DOI: https://doi.org/10.13164/mendel.2022.1.032)
 
